@@ -15,6 +15,8 @@ namespace {
 constexpr int kWindowWidth = 800;
 constexpr int kWindowHeight = 600;
 
+int wheels = 2;
+
 }  // namespace
 
 int main() {
